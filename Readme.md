@@ -47,4 +47,5 @@ Screenshots
   
 ![screencapture-127-0-0-1-8000-docs-2024-09-21-15_54_05](https://github.com/user-attachments/assets/27fe0d11-2312-4c59-a5f4-313bbfdb6560)
 
-![Uploading screencapture-127-0-0-1-8000-docs-2024-09-21-16_09_32.png…]()
+
+![screencapture-127-0-0-1-8000-docs-2024-09-21-16_09_32](https://github.com/user-attachments/assets/288530eb-1c62-46d2-b1a7-72bc09c2132c)
