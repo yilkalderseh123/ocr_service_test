@@ -30,6 +30,7 @@ How to run
    - run using this command in the main directory
      
         uvicorn main:app --reload
+     
 How to test 
    - test using this endpoint in the browser
      
