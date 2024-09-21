@@ -28,9 +28,11 @@ Python Dependencies: Install the following Python packages:
 
 How to run 
    - run using this command in the main directory
+     
         uvicorn main:app --reload
 How to test 
    - test using this endpoint in the browser
+     
       http://127.0.0.1:8000/docs
 
 Contact
