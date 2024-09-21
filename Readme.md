@@ -27,14 +27,15 @@ Python Dependencies: Install the following Python packages:
    pip install fastapi uvicorn pytesseract pdf2image pdfplumber pandas Pillow
 
 How to run 
-   - run using the command below in the main directory
+   - run using this command in the main directory
         uvicorn main:app --reload
 How to test 
-   - test using the below endpoint in the browser
+   - test using this endpoint in the browser
       http://127.0.0.1:8000/docs
 
 Contact
   - For any help or questions, please don't hesitate to reach out. 
     I'm here to assist you and would be happy to provide the support you need!
     phone: +251923233128
+    
     email: yilkalderseh@gmail.com
